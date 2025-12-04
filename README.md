@@ -66,7 +66,7 @@ This is a high-margin audience perfect for targeted lifecycle marketing.
 
 ---
 
-### **3. Caching significantly reduces compute time — essential for real-time dashboards**
+### **3. Caching significantly reduces compute time **
 
 Queries produced:
 
